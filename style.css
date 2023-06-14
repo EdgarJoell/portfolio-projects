@@ -154,6 +154,27 @@ li {
    align-items: center;
 }
 
+#section-three {
+   margin: -3rem auto auto auto;
+   height: 12.5rem;
+   width: 50rem;
+}
+
+#closing-header {
+   font-family: radley, sans-serif;
+   font-size: 35pt;
+   text-align: center;
+   color: #033576;
+}
+
+#closing-p {
+   font-family: carlito, sans-serif;
+   font-size: 18pt;
+   text-align: center;
+   color: #033576;
+   margin-top: -1.75rem;
+}
+
 /* Footer Section */
 footer {
    height: 10rem;
